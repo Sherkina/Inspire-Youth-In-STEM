@@ -15,5 +15,5 @@ weight=45.5 #decmal
 #m=x%y #remainder
 x=13
 square_x=x**2
-cube_x=X**3
+cube_x= X**3
 print(square_x)

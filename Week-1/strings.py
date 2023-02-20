@@ -2,4 +2,4 @@ message = "Hello"
 name = "Sheki"
 greeting = message+ " "+ name
 
-print(greeting)
+print(greeting.upper))
