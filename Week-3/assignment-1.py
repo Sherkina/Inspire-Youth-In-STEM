@@ -4,3 +4,4 @@ Use for loop to add five new musicians
 copy,sort
 pop two celebs
 count the remaining celebs in the list'''
+
